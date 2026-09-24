@@ -4,7 +4,7 @@
 
 CoVER-RAG coordinates an evidence gap planner, an evidence state builder, and an evidence sufficiency evaluator. The evaluator checks fact coverage and verifies candidate claims against retrieved evidence. Failed checks guide further retrieval, up to the configured iteration limit.
 
-Use `coverRAG` (case-sensitive) as the Python module and Hydra method name.
+Use `coverRAG` as the Python module and Hydra method name.
 
 ## Repository layout
 
